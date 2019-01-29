@@ -6,7 +6,7 @@ Changes from source:
 - Converted from GLSL to HLSL including various bug fixes and changes to code due to conversion issues
 - Readjustments to add additional movement options and button inputs
 - Reformatted data transfer between shaders to avoid float errors with ARGB Float render textures
-- 2D/3D panospheric support for VR/Desktop
+- 2D/3D panospheric screenspace support for VR/Desktop
 - FOV adjustment support, including FOV changes according to movement speed
 - Adjustments to movement physics
 
