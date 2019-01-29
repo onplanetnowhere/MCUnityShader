@@ -7,6 +7,7 @@ Changes from source:
 - Readjustments to add additional movement options and button inputs
 - Reformatted data transfer between shaders to avoid float errors with ARGB Float render textures
 - 2D/3D panospheric support for VR/Desktop
+- FOV adjustment support, including FOV changes according to movement speed
 - Adjustments to movement physics
 
 Original GLSL Shader: https://www.shadertoy.com/view/MtcGDH
